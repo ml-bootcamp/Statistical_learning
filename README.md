@@ -1,7 +1,7 @@
 # Statistical_learning
 Notes and coding snippets for "The Elements of Statistical Learning"
 
-
+in this notes chapter number are offset by -1 ( i.e. chapter 1 here is actually chapter 2 in the original book )
 
 ## Status
 
